@@ -26,8 +26,6 @@
     </li>
     </ul>
 
-    ![ani3D_quiver_parabola](https://github.com/user-attachments/assets/11da9329-03cd-48b8-87b6-a0343407f1a0)
+    
+    ![spiral](https://github.com/user-attachments/assets/484c157b-579c-4ee9-869e-7302e08d33e3)
 
-    ![spiral](https://github.com/user-attachments/assets/4fb68e07-ce57-418d-bf06-09f58d54d7fc)
-
-    ![least_sq](https://github.com/user-attachments/assets/3cb9f043-9d0d-42da-a0af-89d5194a75ee)
