@@ -1,27 +1,27 @@
-This repository contains solutions and simulations of various mathematical problems. Among the included topics are:
+<h3>This repository contains solutions and simulations of various mathematical problems. </br> Among the included topics are:</h3>
     <ul>
     <li>
-        Calculus - integration (both numeric and symbolic), differentiation
+        <i><b>Calculus</b></i> - integration (both numeric and symbolic), differentiation
     </li>
     <li>
-        Random variables simulations
+        <i><b>Random variables simulations</b></i>
     </li>
     <li>
-        Ordinary differential equations
+        <i><b>Ordinary differential equations</b></i>
     </li>
     <li>
-        Symbolic algebra with SymPy
+        <i><b>Symbolic algebra with SymPy</b></i>
     </li>
     <li>
-        Fourier transforms - DFT, DTFT
+        <i><b>Fourier transforms</b></i> - DFT, DTFT
     </li>
     <li>
-        Implementation of general least squares approximation
+        <i><b>Implementation of general least squares approximation</b></i>
     </li>
     <li>
-        Monte Carlo methods
+        <i><b>Monte Carlo methods</b></i>
     </li>
     <li>
-        3D vector fields visualizations and animations
+        <i><b>3D vector fields visualizations and animations</b></i>
     </li>
     </ul>
